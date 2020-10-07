@@ -4,7 +4,9 @@
 #include <wchar.h>
 #include <locale.h>
 #define TAM_M 10
-//TP3. UTN 2018. Mariano Madou
+
+//TP3. UTN 2020
+
 int main()
 {
      EMovie listamovie[TAM_M];
